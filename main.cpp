@@ -1,11 +1,16 @@
-#include<iostream>  //input output 
-#include<graphics.h>  
+using namespace std;
+#include <iostream>
+#include<graphics.h>  // works only in 32bit enviroment
 #include<conio.h>  
 #include<dos.h>  
 #include<stdlib.h>  
 #include<stdio.h>  
 #include<time.h>  
 #include<string.h>  
+
+
+
+
 class Snake
 {
     int p1, p2, v1, v2, v3, e1, e2, prev, now, n, colr, dsp, cnt, dly, m;

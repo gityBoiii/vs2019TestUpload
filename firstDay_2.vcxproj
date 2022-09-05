@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Users\musun\Desktop\WinBGIm_Library6_0_Nov2005\graphics.h" />
+    <ClInclude Include="..\..\..\Users\musun\Desktop\WinBGIm_Library6_0_Nov2005\winbgim.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

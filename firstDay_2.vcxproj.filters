@@ -19,4 +19,12 @@
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Users\musun\Desktop\WinBGIm_Library6_0_Nov2005\graphics.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Users\musun\Desktop\WinBGIm_Library6_0_Nov2005\winbgim.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
