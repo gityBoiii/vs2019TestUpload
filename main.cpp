@@ -7,6 +7,8 @@ int main() //메인함수. 입력값
 
 	std::cout << "두번째 문장" << std::endl;
 
+	std::cout << "세번쨰 commiiiiiit" << std::endl;
+
 	return 0; //반환값. 0
 
 }
